@@ -1,1 +1,3 @@
-echo "<?php echo 'Olá, mundo! 2'; ?>" >
+<?php
+phpinfo();
+?>
